@@ -1,6 +1,7 @@
 .App {
     --header_height: 60px;
-    padding: 131px 70px 0
+    padding: 131px 70px 0;
+    background-color: #eeeeee;
 }
 
 .hw {
