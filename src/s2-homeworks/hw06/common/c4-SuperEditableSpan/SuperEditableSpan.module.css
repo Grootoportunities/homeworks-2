@@ -1,7 +1,16 @@
 .spanBlock {
+    display: flex;
+    gap: 20px;
 }
 
 .span {
+    font-family: Montserrat;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-align: center;
+    color: dodgerblue;
 }
 
 .input {
