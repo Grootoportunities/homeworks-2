@@ -14,10 +14,28 @@
 }
 
 .thead {
+
+    background-color: #cbcbcb;
+
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-align: left;
+    color: black;
+
+
 }
 
 .nameCol {
+    display: inline-block;
+
+    margin-right: 150px;
+    padding: 10px 10px;
 }
 
 .ageCol {
+    padding-right: 10px;
+
 }
