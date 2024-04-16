@@ -1,11 +1,12 @@
 .button {
     padding: 5px 24px;
 
-    border-radius: 3px;
+    border-radius: 3px ;
+    border-color: rgba(0, 204, 34, 0);
 
     color: #FFF;
     font-family: Montserrat;
-    font-size: 14px;
+    font-size: 18px;
     font-style: normal;
     font-weight: 600;
     line-height: 20px; /* 142.857% */
