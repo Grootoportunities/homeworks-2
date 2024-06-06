@@ -3,5 +3,10 @@
 }
 
 .loading {
+    display: flex;
+    justify-content: flex-end;
 
+    max-width: 370px;
+
+    opacity: 0.7;
 }
