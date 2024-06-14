@@ -20,6 +20,8 @@
 
 .rowHeader {
     display: flex;
+    background-color: rgba(0, 0, 0, 0.21);
+    padding: 10px;
 }
 
 .loading {
